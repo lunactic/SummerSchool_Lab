@@ -104,9 +104,41 @@ These can then be used for the second part of this tutorial.
 
 ### Task 2 - Comparing Keywords
 
+### Running with Random HED
+The basic provided implementation has a Hausdorff-Edit-Distance implementation that returns a random distance.
+
+Test this implementation by changing the following variable in `Main.java`:
+- `pathOut`: Full path to the `out` directory from Task 1
+
+And compile and execute the Main file. This should generate you the following outputs:
+
+```
+Reading keyword graph and page graphs ...
+... done. Read 3727 graphs in 6547.0 ms.
+
+Matching keyword graph with page graphs ...
+... done. Matched 3726 graphs in 6.0 ms.
+
+Top 10
+1. 271-34-06 (0.0)
+2. 304-11-01 (0.001)
+3. 273-32-05 (0.001)
+4. 277-33-09 (0.001)
+5. 274-34-06 (0.001)
+6. 271-32-02 (0.001)
+7. 300-04-01 (0.002)
+8. 275-09-02 (0.002)
+9. 300-29-03 (0.003)
+10. 272-20-06 (0.003)
+```
+
+and the following image:
+
+![top10_random](doc/top10_random.jpg)
 
 ### Computing HED
-In the second task your task is to compare a target keyword graph with all other graphs.
+Obviously the above implementation is not very good, so we want to improve.
+In the second task the goal is to compare a target keyword graph with all other graphs.
 This should be perform using a Graph Edit Distance (GED) with Hausdorff-Edit-Distance (HED).
 
 In `src/task2/kws` you find Java code that has an implementation to perform the matching on all extracted graph files.

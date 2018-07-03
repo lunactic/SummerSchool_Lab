@@ -1,6 +1,7 @@
 package kws;
 
 import java.util.List;
+import java.util.Random;
 
 /*
  * Hausdorff Edit Distance (HED)
@@ -8,9 +9,12 @@ import java.util.List;
 public class HED {
 
     KCost cost;
+    Random random;
 
     public HED(KCost cost) {
         this.cost = cost;
+        random = new Random();
+        random.setSeed(1234567);
     }
 
     /*
@@ -22,6 +26,7 @@ public class HED {
      */
     public double match(KGraph g1, KGraph g2) {
         //TODO: Compute Hausdorff Edit Distance
+        return random.nextDouble();
     }
 
     /*

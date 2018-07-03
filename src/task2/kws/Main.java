@@ -65,7 +65,7 @@ public class Main {
          * (assuming that the node distance on the keypoint graphs is around 25.0)
          */
 
-        String pathOut = "/path/to/task1/out";
+        String pathOut = "C:\\Users\\marce\\DEV\\SummerSchool_Lab\\out";
 
         String keywordId = "270-01-05";
         String[] pageIds = {"270", "271", "272", "273", "274", "275", "276", "277", "278", "279", "300", "301", "302", "303", "304"};
