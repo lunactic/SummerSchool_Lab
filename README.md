@@ -57,14 +57,14 @@ This Lab is split into two bigger tasks with multiple smaller steps. These steps
     - Find top-10 matches
         - Display the top-10 images 
 
-### Preprocessing of the data
+### Task 1 - Preprocessing of the data
 
 Preprocessing of the data consists of two steps:
 - Binarize the page image
 - Cutting out the  words from the binarized page image
 - Extracting the word graphs from the word images
 
-These steps will be performed using methods provided on [DIVAServices](https://lunactic.github.io/DIVAServicesweb/), and to get you started you can find parts of the implementation of this in the [process.py](src/process.py) file.
+These steps will be performed using methods provided on [DIVAServices](https://lunactic.github.io/DIVAServicesweb/), and to get you started you can find parts of the implementation of this in the [process.py](src/task1/process.py) file.
 
 **Complete Binarization**
 The method `binarize_page` should binarize the original input image using Otsu-Binarization from DIVAServices.
@@ -100,3 +100,59 @@ This will generate you the following outputs:
 - `out/XXX/graphs_binary/`: a folder containing all graph xml files with the correct naming
 
 These can then be used for the second part of this tutorial.
+
+
+### Task 2 - Comparing Keywords
+
+
+### Computing HED
+In the second task your task is to compare a target keyword graph with all other graphs.
+This should be perform using a Graph Edit Distance (GED) with Hausdorff-Edit-Distance (HED).
+
+In `src/task2/kws` you find Java code that has an implementation to perform the matching on all extracted graph files.
+All that is left to you to impement is the function
+``` Java
+public double match(KGraph g1, KGraph g2) {
+}
+```
+In the file `HED.java`. Everything else is already implemented for you.
+
+### Running recognition
+Before compiling the sources make sure to change the two following variables in `Main.java`:
+- `pathOut`: Full path to the `out` directory from Task 1
+- `keywordId`: The ID of the keyword you want to use as search query
+
+Compile your sources (best is using an IDE such as IntelliJ), or from the command line using
+```
+javac kws/*.java
+```
+from the `task2` directory.
+
+And then execute the application using
+```
+java kws.Main
+```
+again from the `task2` directory. If everything runs fine on the console you should get logging information as follows:
+
+```
+Reading keyword graph and page graphs ...
+... done. Read 3727 graphs in 20690.0 ms.
+
+Matching keyword graph with page graphs ...
+... done. Matched 3726 graphs in 2492.0 ms.
+
+Top 10
+1. 270-01-05 (0.0)
+2. 276-02-05 (0.068)
+3. 300-02-05 (0.069)
+4. 274-01-05 (0.081)
+5. 303-02-04 (0.081)
+6. 271-02-04 (0.086)
+7. 278-01-05 (0.087)
+8. 275-01-04 (0.088)
+9. 273-01-04 (0.091)
+10. 302-01-05 (0.091)
+```
+
+And a window such as follows:
+![top-10-figure](doc/top10.jpg)
