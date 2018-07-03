@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="279-12-12">
+		<node id="279-12-12_0">
+			<attr name="x">
+				<float>-3.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_1">
+			<attr name="x">
+				<float>-3.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_2">
+			<attr name="x">
+				<float>0.0</float>
+			</attr>
+			<attr name="y">
+				<float>46.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_3">
+			<attr name="x">
+				<float>0.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_4">
+			<attr name="x">
+				<float>0.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_5">
+			<attr name="x">
+				<float>16.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_6">
+			<attr name="x">
+				<float>22.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_7">
+			<attr name="x">
+				<float>34.0</float>
+			</attr>
+			<attr name="y">
+				<float>51.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_8">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_9">
+			<attr name="x">
+				<float>39.0</float>
+			</attr>
+			<attr name="y">
+				<float>49.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_10">
+			<attr name="x">
+				<float>50.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_11">
+			<attr name="x">
+				<float>57.0</float>
+			</attr>
+			<attr name="y">
+				<float>89.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_12">
+			<attr name="x">
+				<float>58.0</float>
+			</attr>
+			<attr name="y">
+				<float>56.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_13">
+			<attr name="x">
+				<float>60.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_14">
+			<attr name="x">
+				<float>66.0</float>
+			</attr>
+			<attr name="y">
+				<float>85.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_15">
+			<attr name="x">
+				<float>71.0</float>
+			</attr>
+			<attr name="y">
+				<float>87.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_16">
+			<attr name="x">
+				<float>72.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_17">
+			<attr name="x">
+				<float>77.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_18">
+			<attr name="x">
+				<float>79.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_19">
+			<attr name="x">
+				<float>97.0</float>
+			</attr>
+			<attr name="y">
+				<float>89.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_20">
+			<attr name="x">
+				<float>106.0</float>
+			</attr>
+			<attr name="y">
+				<float>85.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_21">
+			<attr name="x">
+				<float>111.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_22">
+			<attr name="x">
+				<float>111.0</float>
+			</attr>
+			<attr name="y">
+				<float>78.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_23">
+			<attr name="x">
+				<float>113.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<node id="279-12-12_24">
+			<attr name="x">
+				<float>113.0</float>
+			</attr>
+			<attr name="y">
+				<float>70.0</float>
+			</attr>
+		</node>
+		<edge from="279-12-12_0" to="279-12-12_2"/>
+		<edge from="279-12-12_0" to="279-12-12_1"/>
+		<edge from="279-12-12_3" to="279-12-12_4"/>
+		<edge from="279-12-12_6" to="279-12-12_7"/>
+		<edge from="279-12-12_5" to="279-12-12_6"/>
+		<edge from="279-12-12_7" to="279-12-12_8"/>
+		<edge from="279-12-12_7" to="279-12-12_9"/>
+		<edge from="279-12-12_12" to="279-12-12_13"/>
+		<edge from="279-12-12_10" to="279-12-12_12"/>
+		<edge from="279-12-12_14" to="279-12-12_15"/>
+		<edge from="279-12-12_11" to="279-12-12_14"/>
+		<edge from="279-12-12_17" to="279-12-12_18"/>
+		<edge from="279-12-12_16" to="279-12-12_17"/>
+		<edge from="279-12-12_20" to="279-12-12_22"/>
+		<edge from="279-12-12_19" to="279-12-12_20"/>
+		<edge from="279-12-12_22" to="279-12-12_24"/>
+	</graph>
+</gxl>
+

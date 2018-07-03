@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="278-06-07">
+		<node id="278-06-07_0">
+			<attr name="x">
+				<float>26.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_1">
+			<attr name="x">
+				<float>31.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_2">
+			<attr name="x">
+				<float>32.0</float>
+			</attr>
+			<attr name="y">
+				<float>88.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_3">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_4">
+			<attr name="x">
+				<float>39.0</float>
+			</attr>
+			<attr name="y">
+				<float>82.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_5">
+			<attr name="x">
+				<float>47.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_6">
+			<attr name="x">
+				<float>47.0</float>
+			</attr>
+			<attr name="y">
+				<float>74.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_7">
+			<attr name="x">
+				<float>51.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_8">
+			<attr name="x">
+				<float>51.0</float>
+			</attr>
+			<attr name="y">
+				<float>69.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_9">
+			<attr name="x">
+				<float>55.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_10">
+			<attr name="x">
+				<float>62.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_11">
+			<attr name="x">
+				<float>65.0</float>
+			</attr>
+			<attr name="y">
+				<float>51.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_12">
+			<attr name="x">
+				<float>73.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_13">
+			<attr name="x">
+				<float>74.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_14">
+			<attr name="x">
+				<float>125.0</float>
+			</attr>
+			<attr name="y">
+				<float>27.0</float>
+			</attr>
+		</node>
+		<node id="278-06-07_15">
+			<attr name="x">
+				<float>126.0</float>
+			</attr>
+			<attr name="y">
+				<float>27.0</float>
+			</attr>
+		</node>
+		<edge from="278-06-07_3" to="278-06-07_3"/>
+		<edge from="278-06-07_3" to="278-06-07_5"/>
+		<edge from="278-06-07_0" to="278-06-07_3"/>
+		<edge from="278-06-07_0" to="278-06-07_1"/>
+		<edge from="278-06-07_1" to="278-06-07_3"/>
+		<edge from="278-06-07_4" to="278-06-07_6"/>
+		<edge from="278-06-07_2" to="278-06-07_4"/>
+		<edge from="278-06-07_5" to="278-06-07_7"/>
+		<edge from="278-06-07_6" to="278-06-07_8"/>
+		<edge from="278-06-07_9" to="278-06-07_10"/>
+		<edge from="278-06-07_12" to="278-06-07_13"/>
+		<edge from="278-06-07_11" to="278-06-07_12"/>
+		<edge from="278-06-07_14" to="278-06-07_15"/>
+	</graph>
+</gxl>
+

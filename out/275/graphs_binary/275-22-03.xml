@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="275-22-03">
+		<node id="275-22-03_0">
+			<attr name="x">
+				<float>24.0</float>
+			</attr>
+			<attr name="y">
+				<float>42.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_1">
+			<attr name="x">
+				<float>26.0</float>
+			</attr>
+			<attr name="y">
+				<float>40.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_2">
+			<attr name="x">
+				<float>30.0</float>
+			</attr>
+			<attr name="y">
+				<float>46.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_3">
+			<attr name="x">
+				<float>35.0</float>
+			</attr>
+			<attr name="y">
+				<float>37.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_4">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>38.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_5">
+			<attr name="x">
+				<float>42.0</float>
+			</attr>
+			<attr name="y">
+				<float>32.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_6">
+			<attr name="x">
+				<float>51.0</float>
+			</attr>
+			<attr name="y">
+				<float>42.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_7">
+			<attr name="x">
+				<float>52.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_8">
+			<attr name="x">
+				<float>59.0</float>
+			</attr>
+			<attr name="y">
+				<float>37.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_9">
+			<attr name="x">
+				<float>61.0</float>
+			</attr>
+			<attr name="y">
+				<float>44.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_10">
+			<attr name="x">
+				<float>91.0</float>
+			</attr>
+			<attr name="y">
+				<float>43.0</float>
+			</attr>
+		</node>
+		<node id="275-22-03_11">
+			<attr name="x">
+				<float>91.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<edge from="275-22-03_2" to="275-22-03_4"/>
+		<edge from="275-22-03_0" to="275-22-03_2"/>
+		<edge from="275-22-03_0" to="275-22-03_1"/>
+		<edge from="275-22-03_4" to="275-22-03_5"/>
+		<edge from="275-22-03_8" to="275-22-03_9"/>
+		<edge from="275-22-03_6" to="275-22-03_8"/>
+		<edge from="275-22-03_6" to="275-22-03_7"/>
+		<edge from="275-22-03_7" to="275-22-03_9"/>
+		<edge from="275-22-03_10" to="275-22-03_11"/>
+	</graph>
+</gxl>
+

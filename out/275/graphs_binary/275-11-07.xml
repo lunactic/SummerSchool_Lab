@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="275-11-07">
+		<node id="275-11-07_0">
+			<attr name="x">
+				<float>33.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_1">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_2">
+			<attr name="x">
+				<float>41.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_3">
+			<attr name="x">
+				<float>47.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_4">
+			<attr name="x">
+				<float>49.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_5">
+			<attr name="x">
+				<float>57.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_6">
+			<attr name="x">
+				<float>62.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_7">
+			<attr name="x">
+				<float>64.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_8">
+			<attr name="x">
+				<float>71.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_9">
+			<attr name="x">
+				<float>73.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_10">
+			<attr name="x">
+				<float>82.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_11">
+			<attr name="x">
+				<float>83.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_12">
+			<attr name="x">
+				<float>87.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_13">
+			<attr name="x">
+				<float>94.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_14">
+			<attr name="x">
+				<float>96.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_15">
+			<attr name="x">
+				<float>96.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_16">
+			<attr name="x">
+				<float>101.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_17">
+			<attr name="x">
+				<float>107.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_18">
+			<attr name="x">
+				<float>110.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_19">
+			<attr name="x">
+				<float>121.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_20">
+			<attr name="x">
+				<float>128.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_21">
+			<attr name="x">
+				<float>132.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="275-11-07_22">
+			<attr name="x">
+				<float>138.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<edge from="275-11-07_0" to="275-11-07_2"/>
+		<edge from="275-11-07_0" to="275-11-07_1"/>
+		<edge from="275-11-07_1" to="275-11-07_3"/>
+		<edge from="275-11-07_3" to="275-11-07_4"/>
+		<edge from="275-11-07_5" to="275-11-07_7"/>
+		<edge from="275-11-07_5" to="275-11-07_6"/>
+		<edge from="275-11-07_6" to="275-11-07_8"/>
+		<edge from="275-11-07_8" to="275-11-07_9"/>
+		<edge from="275-11-07_10" to="275-11-07_11"/>
+		<edge from="275-11-07_13" to="275-11-07_15"/>
+		<edge from="275-11-07_12" to="275-11-07_13"/>
+		<edge from="275-11-07_15" to="275-11-07_16"/>
+		<edge from="275-11-07_18" to="275-11-07_19"/>
+		<edge from="275-11-07_17" to="275-11-07_18"/>
+		<edge from="275-11-07_19" to="275-11-07_20"/>
+		<edge from="275-11-07_19" to="275-11-07_21"/>
+		<edge from="275-11-07_21" to="275-11-07_22"/>
+	</graph>
+</gxl>
+

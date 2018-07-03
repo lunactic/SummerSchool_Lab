@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="277-07-04">
+		<node id="277-07-04_0">
+			<attr name="x">
+				<float>23.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_1">
+			<attr name="x">
+				<float>25.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_2">
+			<attr name="x">
+				<float>30.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_3">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_4">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_5">
+			<attr name="x">
+				<float>43.0</float>
+			</attr>
+			<attr name="y">
+				<float>41.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_6">
+			<attr name="x">
+				<float>43.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_7">
+			<attr name="x">
+				<float>46.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_8">
+			<attr name="x">
+				<float>52.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_9">
+			<attr name="x">
+				<float>90.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="277-07-04_10">
+			<attr name="x">
+				<float>95.0</float>
+			</attr>
+			<attr name="y">
+				<float>66.0</float>
+			</attr>
+		</node>
+		<edge from="277-07-04_2" to="277-07-04_4"/>
+		<edge from="277-07-04_1" to="277-07-04_2"/>
+		<edge from="277-07-04_1" to="277-07-04_3"/>
+		<edge from="277-07-04_3" to="277-07-04_7"/>
+		<edge from="277-07-04_4" to="277-07-04_4"/>
+		<edge from="277-07-04_4" to="277-07-04_5"/>
+		<edge from="277-07-04_4" to="277-07-04_6"/>
+		<edge from="277-07-04_7" to="277-07-04_8"/>
+		<edge from="277-07-04_9" to="277-07-04_10"/>
+	</graph>
+</gxl>
+

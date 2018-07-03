@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="304-05-02">
+		<node id="304-05-02_0">
+			<attr name="x">
+				<float>20.0</float>
+			</attr>
+			<attr name="y">
+				<float>74.0</float>
+			</attr>
+		</node>
+		<node id="304-05-02_1">
+			<attr name="x">
+				<float>23.0</float>
+			</attr>
+			<attr name="y">
+				<float>74.0</float>
+			</attr>
+		</node>
+		<node id="304-05-02_2">
+			<attr name="x">
+				<float>30.0</float>
+			</attr>
+			<attr name="y">
+				<float>66.0</float>
+			</attr>
+		</node>
+		<node id="304-05-02_3">
+			<attr name="x">
+				<float>33.0</float>
+			</attr>
+			<attr name="y">
+				<float>71.0</float>
+			</attr>
+		</node>
+		<node id="304-05-02_4">
+			<attr name="x">
+				<float>34.0</float>
+			</attr>
+			<attr name="y">
+				<float>66.0</float>
+			</attr>
+		</node>
+		<node id="304-05-02_5">
+			<attr name="x">
+				<float>46.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="304-05-02_6">
+			<attr name="x">
+				<float>53.0</float>
+			</attr>
+			<attr name="y">
+				<float>70.0</float>
+			</attr>
+		</node>
+		<node id="304-05-02_7">
+			<attr name="x">
+				<float>57.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="304-05-02_8">
+			<attr name="x">
+				<float>65.0</float>
+			</attr>
+			<attr name="y">
+				<float>76.0</float>
+			</attr>
+		</node>
+		<edge from="304-05-02_1" to="304-05-02_2"/>
+		<edge from="304-05-02_1" to="304-05-02_3"/>
+		<edge from="304-05-02_0" to="304-05-02_1"/>
+		<edge from="304-05-02_2" to="304-05-02_4"/>
+		<edge from="304-05-02_3" to="304-05-02_4"/>
+		<edge from="304-05-02_4" to="304-05-02_4"/>
+		<edge from="304-05-02_4" to="304-05-02_5"/>
+		<edge from="304-05-02_5" to="304-05-02_6"/>
+		<edge from="304-05-02_6" to="304-05-02_7"/>
+		<edge from="304-05-02_7" to="304-05-02_8"/>
+	</graph>
+</gxl>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="303-10-04">
+		<node id="303-10-04_0">
+			<attr name="x">
+				<float>0.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="303-10-04_1">
+			<attr name="x">
+				<float>3.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="303-10-04_2">
+			<attr name="x">
+				<float>9.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<node id="303-10-04_3">
+			<attr name="x">
+				<float>16.0</float>
+			</attr>
+			<attr name="y">
+				<float>37.0</float>
+			</attr>
+		</node>
+		<node id="303-10-04_4">
+			<attr name="x">
+				<float>17.0</float>
+			</attr>
+			<attr name="y">
+				<float>35.0</float>
+			</attr>
+		</node>
+		<node id="303-10-04_5">
+			<attr name="x">
+				<float>25.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="303-10-04_6">
+			<attr name="x">
+				<float>29.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="303-10-04_7">
+			<attr name="x">
+				<float>65.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="303-10-04_8">
+			<attr name="x">
+				<float>66.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="303-10-04_9">
+			<attr name="x">
+				<float>66.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<edge from="303-10-04_1" to="303-10-04_2"/>
+		<edge from="303-10-04_0" to="303-10-04_1"/>
+		<edge from="303-10-04_2" to="303-10-04_3"/>
+		<edge from="303-10-04_3" to="303-10-04_4"/>
+		<edge from="303-10-04_5" to="303-10-04_6"/>
+		<edge from="303-10-04_7" to="303-10-04_8"/>
+		<edge from="303-10-04_7" to="303-10-04_9"/>
+	</graph>
+</gxl>
+

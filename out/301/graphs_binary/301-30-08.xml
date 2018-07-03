@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="301-30-08">
+		<node id="301-30-08_0">
+			<attr name="x">
+				<float>18.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_1">
+			<attr name="x">
+				<float>24.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_2">
+			<attr name="x">
+				<float>25.0</float>
+			</attr>
+			<attr name="y">
+				<float>46.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_3">
+			<attr name="x">
+				<float>28.0</float>
+			</attr>
+			<attr name="y">
+				<float>43.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_4">
+			<attr name="x">
+				<float>33.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_5">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>36.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_6">
+			<attr name="x">
+				<float>40.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_7">
+			<attr name="x">
+				<float>44.0</float>
+			</attr>
+			<attr name="y">
+				<float>29.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_8">
+			<attr name="x">
+				<float>46.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_9">
+			<attr name="x">
+				<float>51.0</float>
+			</attr>
+			<attr name="y">
+				<float>37.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_10">
+			<attr name="x">
+				<float>55.0</float>
+			</attr>
+			<attr name="y">
+				<float>26.0</float>
+			</attr>
+		</node>
+		<node id="301-30-08_11">
+			<attr name="x">
+				<float>62.0</float>
+			</attr>
+			<attr name="y">
+				<float>20.0</float>
+			</attr>
+		</node>
+		<edge from="301-30-08_1" to="301-30-08_4"/>
+		<edge from="301-30-08_0" to="301-30-08_1"/>
+		<edge from="301-30-08_4" to="301-30-08_6"/>
+		<edge from="301-30-08_3" to="301-30-08_5"/>
+		<edge from="301-30-08_2" to="301-30-08_3"/>
+		<edge from="301-30-08_5" to="301-30-08_7"/>
+		<edge from="301-30-08_6" to="301-30-08_8"/>
+		<edge from="301-30-08_7" to="301-30-08_10"/>
+		<edge from="301-30-08_8" to="301-30-08_9"/>
+		<edge from="301-30-08_10" to="301-30-08_11"/>
+		<edge from="301-30-08_9" to="301-30-08_10"/>
+	</graph>
+</gxl>
+

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="301-35-03">
+		<node id="301-35-03_0">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>72.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_1">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>80.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_2">
+			<attr name="x">
+				<float>43.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_3">
+			<attr name="x">
+				<float>49.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_4">
+			<attr name="x">
+				<float>54.0</float>
+			</attr>
+			<attr name="y">
+				<float>71.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_5">
+			<attr name="x">
+				<float>57.0</float>
+			</attr>
+			<attr name="y">
+				<float>70.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_6">
+			<attr name="x">
+				<float>57.0</float>
+			</attr>
+			<attr name="y">
+				<float>80.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_7">
+			<attr name="x">
+				<float>80.0</float>
+			</attr>
+			<attr name="y">
+				<float>74.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_8">
+			<attr name="x">
+				<float>86.0</float>
+			</attr>
+			<attr name="y">
+				<float>73.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_9">
+			<attr name="x">
+				<float>94.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_10">
+			<attr name="x">
+				<float>94.0</float>
+			</attr>
+			<attr name="y">
+				<float>79.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_11">
+			<attr name="x">
+				<float>100.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_12">
+			<attr name="x">
+				<float>109.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_13">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_14">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>74.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_15">
+			<attr name="x">
+				<float>121.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_16">
+			<attr name="x">
+				<float>123.0</float>
+			</attr>
+			<attr name="y">
+				<float>79.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_17">
+			<attr name="x">
+				<float>126.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_18">
+			<attr name="x">
+				<float>132.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_19">
+			<attr name="x">
+				<float>132.0</float>
+			</attr>
+			<attr name="y">
+				<float>78.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_20">
+			<attr name="x">
+				<float>134.0</float>
+			</attr>
+			<attr name="y">
+				<float>47.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_21">
+			<attr name="x">
+				<float>140.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_22">
+			<attr name="x">
+				<float>142.0</float>
+			</attr>
+			<attr name="y">
+				<float>42.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_23">
+			<attr name="x">
+				<float>142.0</float>
+			</attr>
+			<attr name="y">
+				<float>76.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_24">
+			<attr name="x">
+				<float>143.0</float>
+			</attr>
+			<attr name="y">
+				<float>42.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_25">
+			<attr name="x">
+				<float>143.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<node id="301-35-03_26">
+			<attr name="x">
+				<float>145.0</float>
+			</attr>
+			<attr name="y">
+				<float>75.0</float>
+			</attr>
+		</node>
+		<edge from="301-35-03_0" to="301-35-03_1"/>
+		<edge from="301-35-03_0" to="301-35-03_2"/>
+		<edge from="301-35-03_4" to="301-35-03_6"/>
+		<edge from="301-35-03_4" to="301-35-03_5"/>
+		<edge from="301-35-03_3" to="301-35-03_4"/>
+		<edge from="301-35-03_8" to="301-35-03_10"/>
+		<edge from="301-35-03_8" to="301-35-03_9"/>
+		<edge from="301-35-03_7" to="301-35-03_8"/>
+		<edge from="301-35-03_9" to="301-35-03_11"/>
+		<edge from="301-35-03_11" to="301-35-03_12"/>
+		<edge from="301-35-03_12" to="301-35-03_13"/>
+		<edge from="301-35-03_15" to="301-35-03_17"/>
+		<edge from="301-35-03_15" to="301-35-03_18"/>
+		<edge from="301-35-03_14" to="301-35-03_15"/>
+		<edge from="301-35-03_14" to="301-35-03_16"/>
+		<edge from="301-35-03_16" to="301-35-03_19"/>
+		<edge from="301-35-03_17" to="301-35-03_20"/>
+		<edge from="301-35-03_18" to="301-35-03_21"/>
+		<edge from="301-35-03_20" to="301-35-03_22"/>
+		<edge from="301-35-03_21" to="301-35-03_25"/>
+		<edge from="301-35-03_22" to="301-35-03_24"/>
+		<edge from="301-35-03_23" to="301-35-03_26"/>
+	</graph>
+</gxl>
+

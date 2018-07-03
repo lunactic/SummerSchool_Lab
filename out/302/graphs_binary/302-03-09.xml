@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="302-03-09">
+		<node id="302-03-09_0">
+			<attr name="x">
+				<float>13.0</float>
+			</attr>
+			<attr name="y">
+				<float>75.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_1">
+			<attr name="x">
+				<float>18.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_2">
+			<attr name="x">
+				<float>19.0</float>
+			</attr>
+			<attr name="y">
+				<float>71.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_3">
+			<attr name="x">
+				<float>26.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_4">
+			<attr name="x">
+				<float>27.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_5">
+			<attr name="x">
+				<float>37.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_6">
+			<attr name="x">
+				<float>37.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_7">
+			<attr name="x">
+				<float>47.0</float>
+			</attr>
+			<attr name="y">
+				<float>46.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_8">
+			<attr name="x">
+				<float>48.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_9">
+			<attr name="x">
+				<float>51.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_10">
+			<attr name="x">
+				<float>54.0</float>
+			</attr>
+			<attr name="y">
+				<float>42.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_11">
+			<attr name="x">
+				<float>58.0</float>
+			</attr>
+			<attr name="y">
+				<float>41.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_12">
+			<attr name="x">
+				<float>60.0</float>
+			</attr>
+			<attr name="y">
+				<float>32.0</float>
+			</attr>
+		</node>
+		<node id="302-03-09_13">
+			<attr name="x">
+				<float>65.0</float>
+			</attr>
+			<attr name="y">
+				<float>35.0</float>
+			</attr>
+		</node>
+		<edge from="302-03-09_2" to="302-03-09_4"/>
+		<edge from="302-03-09_0" to="302-03-09_2"/>
+		<edge from="302-03-09_3" to="302-03-09_5"/>
+		<edge from="302-03-09_1" to="302-03-09_3"/>
+		<edge from="302-03-09_4" to="302-03-09_6"/>
+		<edge from="302-03-09_5" to="302-03-09_6"/>
+		<edge from="302-03-09_5" to="302-03-09_7"/>
+		<edge from="302-03-09_6" to="302-03-09_6"/>
+		<edge from="302-03-09_6" to="302-03-09_8"/>
+		<edge from="302-03-09_7" to="302-03-09_10"/>
+		<edge from="302-03-09_8" to="302-03-09_9"/>
+		<edge from="302-03-09_10" to="302-03-09_10"/>
+		<edge from="302-03-09_10" to="302-03-09_12"/>
+		<edge from="302-03-09_10" to="302-03-09_11"/>
+		<edge from="302-03-09_12" to="302-03-09_13"/>
+		<edge from="302-03-09_11" to="302-03-09_13"/>
+	</graph>
+</gxl>
+

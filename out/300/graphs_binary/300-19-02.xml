@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="300-19-02">
+		<node id="300-19-02_0">
+			<attr name="x">
+				<float>35.0</float>
+			</attr>
+			<attr name="y">
+				<float>93.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_1">
+			<attr name="x">
+				<float>42.0</float>
+			</attr>
+			<attr name="y">
+				<float>85.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_2">
+			<attr name="x">
+				<float>49.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_3">
+			<attr name="x">
+				<float>55.0</float>
+			</attr>
+			<attr name="y">
+				<float>69.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_4">
+			<attr name="x">
+				<float>57.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_5">
+			<attr name="x">
+				<float>91.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_6">
+			<attr name="x">
+				<float>96.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_7">
+			<attr name="x">
+				<float>100.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_8">
+			<attr name="x">
+				<float>101.0</float>
+			</attr>
+			<attr name="y">
+				<float>17.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_9">
+			<attr name="x">
+				<float>105.0</float>
+			</attr>
+			<attr name="y">
+				<float>16.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_10">
+			<attr name="x">
+				<float>106.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_11">
+			<attr name="x">
+				<float>109.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_12">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_13">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_14">
+			<attr name="x">
+				<float>123.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_15">
+			<attr name="x">
+				<float>178.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="300-19-02_16">
+			<attr name="x">
+				<float>178.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<edge from="300-19-02_1" to="300-19-02_2"/>
+		<edge from="300-19-02_0" to="300-19-02_1"/>
+		<edge from="300-19-02_2" to="300-19-02_3"/>
+		<edge from="300-19-02_3" to="300-19-02_4"/>
+		<edge from="300-19-02_6" to="300-19-02_10"/>
+		<edge from="300-19-02_5" to="300-19-02_6"/>
+		<edge from="300-19-02_5" to="300-19-02_7"/>
+		<edge from="300-19-02_7" to="300-19-02_10"/>
+		<edge from="300-19-02_10" to="300-19-02_10"/>
+		<edge from="300-19-02_10" to="300-19-02_11"/>
+		<edge from="300-19-02_8" to="300-19-02_9"/>
+		<edge from="300-19-02_13" to="300-19-02_14"/>
+		<edge from="300-19-02_12" to="300-19-02_13"/>
+		<edge from="300-19-02_15" to="300-19-02_16"/>
+	</graph>
+</gxl>
+

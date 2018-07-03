@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="301-17-08">
+		<node id="301-17-08_0">
+			<attr name="x">
+				<float>21.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="301-17-08_1">
+			<attr name="x">
+				<float>21.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="301-17-08_2">
+			<attr name="x">
+				<float>29.0</float>
+			</attr>
+			<attr name="y">
+				<float>49.0</float>
+			</attr>
+		</node>
+		<node id="301-17-08_3">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="301-17-08_4">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="301-17-08_5">
+			<attr name="x">
+				<float>47.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<edge from="301-17-08_2" to="301-17-08_4"/>
+		<edge from="301-17-08_0" to="301-17-08_2"/>
+		<edge from="301-17-08_0" to="301-17-08_1"/>
+		<edge from="301-17-08_4" to="301-17-08_5"/>
+		<edge from="301-17-08_3" to="301-17-08_4"/>
+	</graph>
+</gxl>
+

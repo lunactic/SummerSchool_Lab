@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="272-36-04">
+		<node id="272-36-04_0">
+			<attr name="x">
+				<float>35.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_1">
+			<attr name="x">
+				<float>39.0</float>
+			</attr>
+			<attr name="y">
+				<float>80.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_2">
+			<attr name="x">
+				<float>41.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_3">
+			<attr name="x">
+				<float>42.0</float>
+			</attr>
+			<attr name="y">
+				<float>78.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_4">
+			<attr name="x">
+				<float>46.0</float>
+			</attr>
+			<attr name="y">
+				<float>44.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_5">
+			<attr name="x">
+				<float>46.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_6">
+			<attr name="x">
+				<float>49.0</float>
+			</attr>
+			<attr name="y">
+				<float>70.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_7">
+			<attr name="x">
+				<float>50.0</float>
+			</attr>
+			<attr name="y">
+				<float>42.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_8">
+			<attr name="x">
+				<float>56.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_9">
+			<attr name="x">
+				<float>57.0</float>
+			</attr>
+			<attr name="y">
+				<float>51.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_10">
+			<attr name="x">
+				<float>61.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_11">
+			<attr name="x">
+				<float>70.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_12">
+			<attr name="x">
+				<float>73.0</float>
+			</attr>
+			<attr name="y">
+				<float>43.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_13">
+			<attr name="x">
+				<float>91.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_14">
+			<attr name="x">
+				<float>95.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_15">
+			<attr name="x">
+				<float>101.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_16">
+			<attr name="x">
+				<float>113.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_17">
+			<attr name="x">
+				<float>121.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_18">
+			<attr name="x">
+				<float>128.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_19">
+			<attr name="x">
+				<float>137.0</float>
+			</attr>
+			<attr name="y">
+				<float>49.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_20">
+			<attr name="x">
+				<float>146.0</float>
+			</attr>
+			<attr name="y">
+				<float>47.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_21">
+			<attr name="x">
+				<float>147.0</float>
+			</attr>
+			<attr name="y">
+				<float>46.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_22">
+			<attr name="x">
+				<float>155.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_23">
+			<attr name="x">
+				<float>164.0</float>
+			</attr>
+			<attr name="y">
+				<float>46.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_24">
+			<attr name="x">
+				<float>173.0</float>
+			</attr>
+			<attr name="y">
+				<float>43.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_25">
+			<attr name="x">
+				<float>178.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_26">
+			<attr name="x">
+				<float>188.0</float>
+			</attr>
+			<attr name="y">
+				<float>51.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_27">
+			<attr name="x">
+				<float>197.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<node id="272-36-04_28">
+			<attr name="x">
+				<float>198.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<edge from="272-36-04_4" to="272-36-04_5"/>
+		<edge from="272-36-04_4" to="272-36-04_7"/>
+		<edge from="272-36-04_0" to="272-36-04_4"/>
+		<edge from="272-36-04_3" to="272-36-04_6"/>
+		<edge from="272-36-04_1" to="272-36-04_3"/>
+		<edge from="272-36-04_5" to="272-36-04_5"/>
+		<edge from="272-36-04_5" to="272-36-04_9"/>
+		<edge from="272-36-04_2" to="272-36-04_5"/>
+		<edge from="272-36-04_6" to="272-36-04_8"/>
+		<edge from="272-36-04_9" to="272-36-04_10"/>
+		<edge from="272-36-04_8" to="272-36-04_10"/>
+		<edge from="272-36-04_10" to="272-36-04_10"/>
+		<edge from="272-36-04_10" to="272-36-04_11"/>
+		<edge from="272-36-04_11" to="272-36-04_12"/>
+		<edge from="272-36-04_15" to="272-36-04_15"/>
+		<edge from="272-36-04_15" to="272-36-04_16"/>
+		<edge from="272-36-04_13" to="272-36-04_15"/>
+		<edge from="272-36-04_13" to="272-36-04_14"/>
+		<edge from="272-36-04_14" to="272-36-04_15"/>
+		<edge from="272-36-04_16" to="272-36-04_17"/>
+		<edge from="272-36-04_17" to="272-36-04_18"/>
+		<edge from="272-36-04_18" to="272-36-04_19"/>
+		<edge from="272-36-04_19" to="272-36-04_20"/>
+		<edge from="272-36-04_20" to="272-36-04_20"/>
+		<edge from="272-36-04_20" to="272-36-04_22"/>
+		<edge from="272-36-04_22" to="272-36-04_23"/>
+		<edge from="272-36-04_23" to="272-36-04_24"/>
+		<edge from="272-36-04_24" to="272-36-04_25"/>
+		<edge from="272-36-04_25" to="272-36-04_26"/>
+		<edge from="272-36-04_26" to="272-36-04_27"/>
+		<edge from="272-36-04_27" to="272-36-04_28"/>
+	</graph>
+</gxl>
+

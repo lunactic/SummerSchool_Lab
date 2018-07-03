@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="278-19-10">
+		<node id="278-19-10_0">
+			<attr name="x">
+				<float>1.0</float>
+			</attr>
+			<attr name="y">
+				<float>115.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_1">
+			<attr name="x">
+				<float>8.0</float>
+			</attr>
+			<attr name="y">
+				<float>115.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_2">
+			<attr name="x">
+				<float>23.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_3">
+			<attr name="x">
+				<float>24.0</float>
+			</attr>
+			<attr name="y">
+				<float>35.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_4">
+			<attr name="x">
+				<float>26.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_5">
+			<attr name="x">
+				<float>28.0</float>
+			</attr>
+			<attr name="y">
+				<float>32.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_6">
+			<attr name="x">
+				<float>30.0</float>
+			</attr>
+			<attr name="y">
+				<float>70.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_7">
+			<attr name="x">
+				<float>32.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_8">
+			<attr name="x">
+				<float>34.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_9">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>28.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_10">
+			<attr name="x">
+				<float>40.0</float>
+			</attr>
+			<attr name="y">
+				<float>43.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_11">
+			<attr name="x">
+				<float>42.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_12">
+			<attr name="x">
+				<float>45.0</float>
+			</attr>
+			<attr name="y">
+				<float>36.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_13">
+			<attr name="x">
+				<float>47.0</float>
+			</attr>
+			<attr name="y">
+				<float>25.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_14">
+			<attr name="x">
+				<float>49.0</float>
+			</attr>
+			<attr name="y">
+				<float>24.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_15">
+			<attr name="x">
+				<float>53.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_16">
+			<attr name="x">
+				<float>59.0</float>
+			</attr>
+			<attr name="y">
+				<float>47.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_17">
+			<attr name="x">
+				<float>64.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_18">
+			<attr name="x">
+				<float>65.0</float>
+			</attr>
+			<attr name="y">
+				<float>28.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_19">
+			<attr name="x">
+				<float>65.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_20">
+			<attr name="x">
+				<float>67.0</float>
+			</attr>
+			<attr name="y">
+				<float>40.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_21">
+			<attr name="x">
+				<float>67.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_22">
+			<attr name="x">
+				<float>71.0</float>
+			</attr>
+			<attr name="y">
+				<float>35.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_23">
+			<attr name="x">
+				<float>82.0</float>
+			</attr>
+			<attr name="y">
+				<float>30.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_24">
+			<attr name="x">
+				<float>85.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_25">
+			<attr name="x">
+				<float>90.0</float>
+			</attr>
+			<attr name="y">
+				<float>34.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_26">
+			<attr name="x">
+				<float>91.0</float>
+			</attr>
+			<attr name="y">
+				<float>27.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_27">
+			<attr name="x">
+				<float>92.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_28">
+			<attr name="x">
+				<float>92.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_29">
+			<attr name="x">
+				<float>97.0</float>
+			</attr>
+			<attr name="y">
+				<float>7.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_30">
+			<attr name="x">
+				<float>106.0</float>
+			</attr>
+			<attr name="y">
+				<float>2.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_31">
+			<attr name="x">
+				<float>115.0</float>
+			</attr>
+			<attr name="y">
+				<float>0.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_32">
+			<attr name="x">
+				<float>115.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_33">
+			<attr name="x">
+				<float>116.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_34">
+			<attr name="x">
+				<float>120.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_35">
+			<attr name="x">
+				<float>121.0</float>
+			</attr>
+			<attr name="y">
+				<float>91.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_36">
+			<attr name="x">
+				<float>125.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_37">
+			<attr name="x">
+				<float>126.0</float>
+			</attr>
+			<attr name="y">
+				<float>85.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_38">
+			<attr name="x">
+				<float>127.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_39">
+			<attr name="x">
+				<float>131.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_40">
+			<attr name="x">
+				<float>136.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_41">
+			<attr name="x">
+				<float>138.0</float>
+			</attr>
+			<attr name="y">
+				<float>69.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_42">
+			<attr name="x">
+				<float>143.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_43">
+			<attr name="x">
+				<float>150.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_44">
+			<attr name="x">
+				<float>156.0</float>
+			</attr>
+			<attr name="y">
+				<float>49.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_45">
+			<attr name="x">
+				<float>156.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_46">
+			<attr name="x">
+				<float>166.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_47">
+			<attr name="x">
+				<float>175.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_48">
+			<attr name="x">
+				<float>178.0</float>
+			</attr>
+			<attr name="y">
+				<float>74.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_49">
+			<attr name="x">
+				<float>184.0</float>
+			</attr>
+			<attr name="y">
+				<float>71.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_50">
+			<attr name="x">
+				<float>185.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_51">
+			<attr name="x">
+				<float>185.0</float>
+			</attr>
+			<attr name="y">
+				<float>88.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_52">
+			<attr name="x">
+				<float>189.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_53">
+			<attr name="x">
+				<float>193.0</float>
+			</attr>
+			<attr name="y">
+				<float>83.0</float>
+			</attr>
+		</node>
+		<node id="278-19-10_54">
+			<attr name="x">
+				<float>194.0</float>
+			</attr>
+			<attr name="y">
+				<float>82.0</float>
+			</attr>
+		</node>
+		<edge from="278-19-10_0" to="278-19-10_1"/>
+		<edge from="278-19-10_2" to="278-19-10_4"/>
+		<edge from="278-19-10_3" to="278-19-10_5"/>
+		<edge from="278-19-10_8" to="278-19-10_11"/>
+		<edge from="278-19-10_6" to="278-19-10_8"/>
+		<edge from="278-19-10_10" to="278-19-10_12"/>
+		<edge from="278-19-10_7" to="278-19-10_10"/>
+		<edge from="278-19-10_11" to="278-19-10_15"/>
+		<edge from="278-19-10_13" to="278-19-10_14"/>
+		<edge from="278-19-10_9" to="278-19-10_13"/>
+		<edge from="278-19-10_15" to="278-19-10_16"/>
+		<edge from="278-19-10_15" to="278-19-10_19"/>
+		<edge from="278-19-10_16" to="278-19-10_20"/>
+		<edge from="278-19-10_19" to="278-19-10_19"/>
+		<edge from="278-19-10_20" to="278-19-10_22"/>
+		<edge from="278-19-10_17" to="278-19-10_19"/>
+		<edge from="278-19-10_22" to="278-19-10_22"/>
+		<edge from="278-19-10_22" to="278-19-10_23"/>
+		<edge from="278-19-10_18" to="278-19-10_22"/>
+		<edge from="278-19-10_23" to="278-19-10_26"/>
+		<edge from="278-19-10_27" to="278-19-10_28"/>
+		<edge from="278-19-10_24" to="278-19-10_27"/>
+		<edge from="278-19-10_24" to="278-19-10_28"/>
+		<edge from="278-19-10_25" to="278-19-10_26"/>
+		<edge from="278-19-10_30" to="278-19-10_31"/>
+		<edge from="278-19-10_29" to="278-19-10_30"/>
+		<edge from="278-19-10_33" to="278-19-10_34"/>
+		<edge from="278-19-10_32" to="278-19-10_33"/>
+		<edge from="278-19-10_37" to="278-19-10_39"/>
+		<edge from="278-19-10_35" to="278-19-10_37"/>
+		<edge from="278-19-10_36" to="278-19-10_38"/>
+		<edge from="278-19-10_39" to="278-19-10_41"/>
+		<edge from="278-19-10_41" to="278-19-10_42"/>
+		<edge from="278-19-10_42" to="278-19-10_43"/>
+		<edge from="278-19-10_40" to="278-19-10_42"/>
+		<edge from="278-19-10_43" to="278-19-10_43"/>
+		<edge from="278-19-10_43" to="278-19-10_44"/>
+		<edge from="278-19-10_43" to="278-19-10_45"/>
+		<edge from="278-19-10_45" to="278-19-10_46"/>
+		<edge from="278-19-10_46" to="278-19-10_47"/>
+		<edge from="278-19-10_47" to="278-19-10_50"/>
+		<edge from="278-19-10_50" to="278-19-10_50"/>
+		<edge from="278-19-10_50" to="278-19-10_52"/>
+		<edge from="278-19-10_49" to="278-19-10_50"/>
+		<edge from="278-19-10_48" to="278-19-10_49"/>
+		<edge from="278-19-10_53" to="278-19-10_54"/>
+		<edge from="278-19-10_51" to="278-19-10_53"/>
+	</graph>
+</gxl>
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="302-20-05">
+		<node id="302-20-05_0">
+			<attr name="x">
+				<float>34.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="302-20-05_1">
+			<attr name="x">
+				<float>39.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="302-20-05_2">
+			<attr name="x">
+				<float>43.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="302-20-05_3">
+			<attr name="x">
+				<float>49.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="302-20-05_4">
+			<attr name="x">
+				<float>59.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="302-20-05_5">
+			<attr name="x">
+				<float>69.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="302-20-05_6">
+			<attr name="x">
+				<float>70.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<edge from="302-20-05_1" to="302-20-05_3"/>
+		<edge from="302-20-05_0" to="302-20-05_1"/>
+		<edge from="302-20-05_0" to="302-20-05_2"/>
+		<edge from="302-20-05_2" to="302-20-05_3"/>
+		<edge from="302-20-05_3" to="302-20-05_3"/>
+		<edge from="302-20-05_3" to="302-20-05_4"/>
+		<edge from="302-20-05_4" to="302-20-05_5"/>
+		<edge from="302-20-05_5" to="302-20-05_6"/>
+	</graph>
+</gxl>
+

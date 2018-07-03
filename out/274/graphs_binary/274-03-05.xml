@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="274-03-05">
+		<node id="274-03-05_0">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_1">
+			<attr name="x">
+				<float>38.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_2">
+			<attr name="x">
+				<float>50.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_3">
+			<attr name="x">
+				<float>52.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_4">
+			<attr name="x">
+				<float>54.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_5">
+			<attr name="x">
+				<float>57.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_6">
+			<attr name="x">
+				<float>61.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_7">
+			<attr name="x">
+				<float>63.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_8">
+			<attr name="x">
+				<float>66.0</float>
+			</attr>
+			<attr name="y">
+				<float>37.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_9">
+			<attr name="x">
+				<float>69.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_10">
+			<attr name="x">
+				<float>72.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_11">
+			<attr name="x">
+				<float>73.0</float>
+			</attr>
+			<attr name="y">
+				<float>27.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_12">
+			<attr name="x">
+				<float>75.0</float>
+			</attr>
+			<attr name="y">
+				<float>36.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_13">
+			<attr name="x">
+				<float>77.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_14">
+			<attr name="x">
+				<float>81.0</float>
+			</attr>
+			<attr name="y">
+				<float>20.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_15">
+			<attr name="x">
+				<float>84.0</float>
+			</attr>
+			<attr name="y">
+				<float>32.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_16">
+			<attr name="x">
+				<float>89.0</float>
+			</attr>
+			<attr name="y">
+				<float>14.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_17">
+			<attr name="x">
+				<float>92.0</float>
+			</attr>
+			<attr name="y">
+				<float>27.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_18">
+			<attr name="x">
+				<float>98.0</float>
+			</attr>
+			<attr name="y">
+				<float>10.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_19">
+			<attr name="x">
+				<float>100.0</float>
+			</attr>
+			<attr name="y">
+				<float>21.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_20">
+			<attr name="x">
+				<float>102.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_21">
+			<attr name="x">
+				<float>105.0</float>
+			</attr>
+			<attr name="y">
+				<float>13.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_22">
+			<attr name="x">
+				<float>105.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_23">
+			<attr name="x">
+				<float>113.0</float>
+			</attr>
+			<attr name="y">
+				<float>51.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_24">
+			<attr name="x">
+				<float>115.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_25">
+			<attr name="x">
+				<float>121.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_26">
+			<attr name="x">
+				<float>133.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_27">
+			<attr name="x">
+				<float>137.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_28">
+			<attr name="x">
+				<float>142.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_29">
+			<attr name="x">
+				<float>147.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_30">
+			<attr name="x">
+				<float>155.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_31">
+			<attr name="x">
+				<float>164.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_32">
+			<attr name="x">
+				<float>169.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_33">
+			<attr name="x">
+				<float>174.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_34">
+			<attr name="x">
+				<float>184.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_35">
+			<attr name="x">
+				<float>193.0</float>
+			</attr>
+			<attr name="y">
+				<float>91.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_36">
+			<attr name="x">
+				<float>196.0</float>
+			</attr>
+			<attr name="y">
+				<float>56.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_37">
+			<attr name="x">
+				<float>197.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_38">
+			<attr name="x">
+				<float>201.0</float>
+			</attr>
+			<attr name="y">
+				<float>84.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_39">
+			<attr name="x">
+				<float>205.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_40">
+			<attr name="x">
+				<float>206.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_41">
+			<attr name="x">
+				<float>207.0</float>
+			</attr>
+			<attr name="y">
+				<float>76.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_42">
+			<attr name="x">
+				<float>209.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_43">
+			<attr name="x">
+				<float>212.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_44">
+			<attr name="x">
+				<float>213.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_45">
+			<attr name="x">
+				<float>218.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_46">
+			<attr name="x">
+				<float>228.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_47">
+			<attr name="x">
+				<float>231.0</float>
+			</attr>
+			<attr name="y">
+				<float>51.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_48">
+			<attr name="x">
+				<float>235.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_49">
+			<attr name="x">
+				<float>237.0</float>
+			</attr>
+			<attr name="y">
+				<float>41.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_50">
+			<attr name="x">
+				<float>239.0</float>
+			</attr>
+			<attr name="y">
+				<float>40.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_51">
+			<attr name="x">
+				<float>240.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_52">
+			<attr name="x">
+				<float>240.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_53">
+			<attr name="x">
+				<float>247.0</float>
+			</attr>
+			<attr name="y">
+				<float>51.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_54">
+			<attr name="x">
+				<float>251.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_55">
+			<attr name="x">
+				<float>256.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_56">
+			<attr name="x">
+				<float>264.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_57">
+			<attr name="x">
+				<float>271.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_58">
+			<attr name="x">
+				<float>279.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_59">
+			<attr name="x">
+				<float>282.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_60">
+			<attr name="x">
+				<float>288.0</float>
+			</attr>
+			<attr name="y">
+				<float>56.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_61">
+			<attr name="x">
+				<float>298.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_62">
+			<attr name="x">
+				<float>307.0</float>
+			</attr>
+			<attr name="y">
+				<float>56.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_63">
+			<attr name="x">
+				<float>315.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_64">
+			<attr name="x">
+				<float>316.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_65">
+			<attr name="x">
+				<float>323.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_66">
+			<attr name="x">
+				<float>335.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_67">
+			<attr name="x">
+				<float>344.0</float>
+			</attr>
+			<attr name="y">
+				<float>55.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_68">
+			<attr name="x">
+				<float>347.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_69">
+			<attr name="x">
+				<float>351.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_70">
+			<attr name="x">
+				<float>361.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_71">
+			<attr name="x">
+				<float>370.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_72">
+			<attr name="x">
+				<float>378.0</float>
+			</attr>
+			<attr name="y">
+				<float>49.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_73">
+			<attr name="x">
+				<float>380.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_74">
+			<attr name="x">
+				<float>389.0</float>
+			</attr>
+			<attr name="y">
+				<float>31.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_75">
+			<attr name="x">
+				<float>390.0</float>
+			</attr>
+			<attr name="y">
+				<float>31.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_76">
+			<attr name="x">
+				<float>390.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_77">
+			<attr name="x">
+				<float>401.0</float>
+			</attr>
+			<attr name="y">
+				<float>56.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_78">
+			<attr name="x">
+				<float>407.0</float>
+			</attr>
+			<attr name="y">
+				<float>48.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_79">
+			<attr name="x">
+				<float>409.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_80">
+			<attr name="x">
+				<float>415.0</float>
+			</attr>
+			<attr name="y">
+				<float>56.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_81">
+			<attr name="x">
+				<float>416.0</float>
+			</attr>
+			<attr name="y">
+				<float>66.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_82">
+			<attr name="x">
+				<float>423.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_83">
+			<attr name="x">
+				<float>426.0</float>
+			</attr>
+			<attr name="y">
+				<float>52.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_84">
+			<attr name="x">
+				<float>427.0</float>
+			</attr>
+			<attr name="y">
+				<float>50.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_85">
+			<attr name="x">
+				<float>428.0</float>
+			</attr>
+			<attr name="y">
+				<float>80.0</float>
+			</attr>
+		</node>
+		<node id="274-03-05_86">
+			<attr name="x">
+				<float>435.0</float>
+			</attr>
+			<attr name="y">
+				<float>75.0</float>
+			</attr>
+		</node>
+		<edge from="274-03-05_0" to="274-03-05_1"/>
+		<edge from="274-03-05_4" to="274-03-05_6"/>
+		<edge from="274-03-05_2" to="274-03-05_4"/>
+		<edge from="274-03-05_2" to="274-03-05_5"/>
+		<edge from="274-03-05_5" to="274-03-05_8"/>
+		<edge from="274-03-05_3" to="274-03-05_4"/>
+		<edge from="274-03-05_6" to="274-03-05_6"/>
+		<edge from="274-03-05_6" to="274-03-05_9"/>
+		<edge from="274-03-05_6" to="274-03-05_7"/>
+		<edge from="274-03-05_8" to="274-03-05_8"/>
+		<edge from="274-03-05_8" to="274-03-05_11"/>
+		<edge from="274-03-05_8" to="274-03-05_12"/>
+		<edge from="274-03-05_9" to="274-03-05_13"/>
+		<edge from="274-03-05_7" to="274-03-05_10"/>
+		<edge from="274-03-05_10" to="274-03-05_13"/>
+		<edge from="274-03-05_11" to="274-03-05_14"/>
+		<edge from="274-03-05_12" to="274-03-05_15"/>
+		<edge from="274-03-05_14" to="274-03-05_16"/>
+		<edge from="274-03-05_15" to="274-03-05_17"/>
+		<edge from="274-03-05_16" to="274-03-05_18"/>
+		<edge from="274-03-05_17" to="274-03-05_19"/>
+		<edge from="274-03-05_18" to="274-03-05_21"/>
+		<edge from="274-03-05_19" to="274-03-05_21"/>
+		<edge from="274-03-05_22" to="274-03-05_23"/>
+		<edge from="274-03-05_22" to="274-03-05_24"/>
+		<edge from="274-03-05_20" to="274-03-05_22"/>
+		<edge from="274-03-05_23" to="274-03-05_25"/>
+		<edge from="274-03-05_24" to="274-03-05_25"/>
+		<edge from="274-03-05_25" to="274-03-05_25"/>
+		<edge from="274-03-05_25" to="274-03-05_26"/>
+		<edge from="274-03-05_26" to="274-03-05_27"/>
+		<edge from="274-03-05_29" to="274-03-05_30"/>
+		<edge from="274-03-05_28" to="274-03-05_29"/>
+		<edge from="274-03-05_30" to="274-03-05_31"/>
+		<edge from="274-03-05_31" to="274-03-05_33"/>
+		<edge from="274-03-05_33" to="274-03-05_34"/>
+		<edge from="274-03-05_32" to="274-03-05_33"/>
+		<edge from="274-03-05_34" to="274-03-05_36"/>
+		<edge from="274-03-05_36" to="274-03-05_36"/>
+		<edge from="274-03-05_36" to="274-03-05_39"/>
+		<edge from="274-03-05_38" to="274-03-05_41"/>
+		<edge from="274-03-05_35" to="274-03-05_38"/>
+		<edge from="274-03-05_39" to="274-03-05_40"/>
+		<edge from="274-03-05_41" to="274-03-05_44"/>
+		<edge from="274-03-05_44" to="274-03-05_45"/>
+		<edge from="274-03-05_45" to="274-03-05_46"/>
+		<edge from="274-03-05_43" to="274-03-05_45"/>
+		<edge from="274-03-05_46" to="274-03-05_47"/>
+		<edge from="274-03-05_47" to="274-03-05_47"/>
+		<edge from="274-03-05_47" to="274-03-05_49"/>
+		<edge from="274-03-05_47" to="274-03-05_51"/>
+		<edge from="274-03-05_49" to="274-03-05_50"/>
+		<edge from="274-03-05_51" to="274-03-05_51"/>
+		<edge from="274-03-05_51" to="274-03-05_52"/>
+		<edge from="274-03-05_51" to="274-03-05_53"/>
+		<edge from="274-03-05_52" to="274-03-05_52"/>
+		<edge from="274-03-05_52" to="274-03-05_54"/>
+		<edge from="274-03-05_48" to="274-03-05_52"/>
+		<edge from="274-03-05_54" to="274-03-05_55"/>
+		<edge from="274-03-05_57" to="274-03-05_58"/>
+		<edge from="274-03-05_57" to="274-03-05_59"/>
+		<edge from="274-03-05_56" to="274-03-05_57"/>
+		<edge from="274-03-05_58" to="274-03-05_60"/>
+		<edge from="274-03-05_59" to="274-03-05_60"/>
+		<edge from="274-03-05_60" to="274-03-05_60"/>
+		<edge from="274-03-05_60" to="274-03-05_61"/>
+		<edge from="274-03-05_61" to="274-03-05_62"/>
+		<edge from="274-03-05_62" to="274-03-05_64"/>
+		<edge from="274-03-05_64" to="274-03-05_65"/>
+		<edge from="274-03-05_65" to="274-03-05_65"/>
+		<edge from="274-03-05_65" to="274-03-05_66"/>
+		<edge from="274-03-05_63" to="274-03-05_65"/>
+		<edge from="274-03-05_66" to="274-03-05_67"/>
+		<edge from="274-03-05_67" to="274-03-05_67"/>
+		<edge from="274-03-05_67" to="274-03-05_69"/>
+		<edge from="274-03-05_67" to="274-03-05_68"/>
+		<edge from="274-03-05_69" to="274-03-05_70"/>
+		<edge from="274-03-05_70" to="274-03-05_71"/>
+		<edge from="274-03-05_71" to="274-03-05_71"/>
+		<edge from="274-03-05_71" to="274-03-05_72"/>
+		<edge from="274-03-05_71" to="274-03-05_73"/>
+		<edge from="274-03-05_73" to="274-03-05_76"/>
+		<edge from="274-03-05_76" to="274-03-05_77"/>
+		<edge from="274-03-05_74" to="274-03-05_75"/>
+		<edge from="274-03-05_77" to="274-03-05_77"/>
+		<edge from="274-03-05_77" to="274-03-05_78"/>
+		<edge from="274-03-05_77" to="274-03-05_79"/>
+		<edge from="274-03-05_80" to="274-03-05_83"/>
+		<edge from="274-03-05_82" to="274-03-05_83"/>
+		<edge from="274-03-05_81" to="274-03-05_82"/>
+		<edge from="274-03-05_85" to="274-03-05_86"/>
+	</graph>
+</gxl>
+

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="270-33-01">
+		<node id="270-33-01_0">
+			<attr name="x">
+				<float>13.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_1">
+			<attr name="x">
+				<float>17.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_2">
+			<attr name="x">
+				<float>24.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_3">
+			<attr name="x">
+				<float>27.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_4">
+			<attr name="x">
+				<float>34.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_5">
+			<attr name="x">
+				<float>43.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_6">
+			<attr name="x">
+				<float>53.0</float>
+			</attr>
+			<attr name="y">
+				<float>66.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_7">
+			<attr name="x">
+				<float>61.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_8">
+			<attr name="x">
+				<float>70.0</float>
+			</attr>
+			<attr name="y">
+				<float>58.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_9">
+			<attr name="x">
+				<float>74.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_10">
+			<attr name="x">
+				<float>84.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_11">
+			<attr name="x">
+				<float>94.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_12">
+			<attr name="x">
+				<float>97.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_13">
+			<attr name="x">
+				<float>105.0</float>
+			</attr>
+			<attr name="y">
+				<float>56.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_14">
+			<attr name="x">
+				<float>108.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="270-33-01_15">
+			<attr name="x">
+				<float>117.0</float>
+			</attr>
+			<attr name="y">
+				<float>66.0</float>
+			</attr>
+		</node>
+		<edge from="270-33-01_1" to="270-33-01_2"/>
+		<edge from="270-33-01_1" to="270-33-01_3"/>
+		<edge from="270-33-01_0" to="270-33-01_1"/>
+		<edge from="270-33-01_2" to="270-33-01_4"/>
+		<edge from="270-33-01_3" to="270-33-01_4"/>
+		<edge from="270-33-01_4" to="270-33-01_4"/>
+		<edge from="270-33-01_4" to="270-33-01_5"/>
+		<edge from="270-33-01_5" to="270-33-01_6"/>
+		<edge from="270-33-01_6" to="270-33-01_7"/>
+		<edge from="270-33-01_7" to="270-33-01_8"/>
+		<edge from="270-33-01_8" to="270-33-01_9"/>
+		<edge from="270-33-01_9" to="270-33-01_10"/>
+		<edge from="270-33-01_10" to="270-33-01_11"/>
+		<edge from="270-33-01_11" to="270-33-01_12"/>
+		<edge from="270-33-01_12" to="270-33-01_12"/>
+		<edge from="270-33-01_12" to="270-33-01_13"/>
+		<edge from="270-33-01_12" to="270-33-01_14"/>
+		<edge from="270-33-01_14" to="270-33-01_15"/>
+	</graph>
+</gxl>
+

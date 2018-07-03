@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="273-20-05">
+		<node id="273-20-05_0">
+			<attr name="x">
+				<float>0.0</float>
+			</attr>
+			<attr name="y">
+				<float>29.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_1">
+			<attr name="x">
+				<float>1.0</float>
+			</attr>
+			<attr name="y">
+				<float>21.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_2">
+			<attr name="x">
+				<float>36.0</float>
+			</attr>
+			<attr name="y">
+				<float>71.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_3">
+			<attr name="x">
+				<float>41.0</float>
+			</attr>
+			<attr name="y">
+				<float>62.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_4">
+			<attr name="x">
+				<float>41.0</float>
+			</attr>
+			<attr name="y">
+				<float>78.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_5">
+			<attr name="x">
+				<float>48.0</float>
+			</attr>
+			<attr name="y">
+				<float>54.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_6">
+			<attr name="x">
+				<float>50.0</float>
+			</attr>
+			<attr name="y">
+				<float>75.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_7">
+			<attr name="x">
+				<float>56.0</float>
+			</attr>
+			<attr name="y">
+				<float>46.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_8">
+			<attr name="x">
+				<float>59.0</float>
+			</attr>
+			<attr name="y">
+				<float>71.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_9">
+			<attr name="x">
+				<float>64.0</float>
+			</attr>
+			<attr name="y">
+				<float>38.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_10">
+			<attr name="x">
+				<float>69.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_11">
+			<attr name="x">
+				<float>70.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_12">
+			<attr name="x">
+				<float>72.0</float>
+			</attr>
+			<attr name="y">
+				<float>33.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_13">
+			<attr name="x">
+				<float>75.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_14">
+			<attr name="x">
+				<float>80.0</float>
+			</attr>
+			<attr name="y">
+				<float>53.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_15">
+			<attr name="x">
+				<float>80.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_16">
+			<attr name="x">
+				<float>81.0</float>
+			</attr>
+			<attr name="y">
+				<float>30.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_17">
+			<attr name="x">
+				<float>82.0</float>
+			</attr>
+			<attr name="y">
+				<float>30.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_18">
+			<attr name="x">
+				<float>86.0</float>
+			</attr>
+			<attr name="y">
+				<float>45.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_19">
+			<attr name="x">
+				<float>89.0</float>
+			</attr>
+			<attr name="y">
+				<float>74.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_20">
+			<attr name="x">
+				<float>94.0</float>
+			</attr>
+			<attr name="y">
+				<float>37.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_21">
+			<attr name="x">
+				<float>96.0</float>
+			</attr>
+			<attr name="y">
+				<float>73.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_22">
+			<attr name="x">
+				<float>97.0</float>
+			</attr>
+			<attr name="y">
+				<float>34.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_23">
+			<attr name="x">
+				<float>99.0</float>
+			</attr>
+			<attr name="y">
+				<float>75.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_24">
+			<attr name="x">
+				<float>107.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_25">
+			<attr name="x">
+				<float>109.0</float>
+			</attr>
+			<attr name="y">
+				<float>76.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_26">
+			<attr name="x">
+				<float>115.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_27">
+			<attr name="x">
+				<float>118.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_28">
+			<attr name="x">
+				<float>118.0</float>
+			</attr>
+			<attr name="y">
+				<float>73.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_29">
+			<attr name="x">
+				<float>123.0</float>
+			</attr>
+			<attr name="y">
+				<float>60.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_30">
+			<attr name="x">
+				<float>125.0</float>
+			</attr>
+			<attr name="y">
+				<float>73.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_31">
+			<attr name="x">
+				<float>127.0</float>
+			</attr>
+			<attr name="y">
+				<float>66.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_32">
+			<attr name="x">
+				<float>133.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_33">
+			<attr name="x">
+				<float>137.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_34">
+			<attr name="x">
+				<float>138.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_35">
+			<attr name="x">
+				<float>144.0</float>
+			</attr>
+			<attr name="y">
+				<float>51.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_36">
+			<attr name="x">
+				<float>151.0</float>
+			</attr>
+			<attr name="y">
+				<float>43.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_37">
+			<attr name="x">
+				<float>159.0</float>
+			</attr>
+			<attr name="y">
+				<float>37.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_38">
+			<attr name="x">
+				<float>159.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_39">
+			<attr name="x">
+				<float>162.0</float>
+			</attr>
+			<attr name="y">
+				<float>69.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_40">
+			<attr name="x">
+				<float>169.0</float>
+			</attr>
+			<attr name="y">
+				<float>76.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_41">
+			<attr name="x">
+				<float>170.0</float>
+			</attr>
+			<attr name="y">
+				<float>63.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_42">
+			<attr name="x">
+				<float>180.0</float>
+			</attr>
+			<attr name="y">
+				<float>61.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_43">
+			<attr name="x">
+				<float>180.0</float>
+			</attr>
+			<attr name="y">
+				<float>75.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_44">
+			<attr name="x">
+				<float>184.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_45">
+			<attr name="x">
+				<float>191.0</float>
+			</attr>
+			<attr name="y">
+				<float>75.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_46">
+			<attr name="x">
+				<float>193.0</float>
+			</attr>
+			<attr name="y">
+				<float>59.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_47">
+			<attr name="x">
+				<float>196.0</float>
+			</attr>
+			<attr name="y">
+				<float>57.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_48">
+			<attr name="x">
+				<float>200.0</float>
+			</attr>
+			<attr name="y">
+				<float>71.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_49">
+			<attr name="x">
+				<float>207.0</float>
+			</attr>
+			<attr name="y">
+				<float>80.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_50">
+			<attr name="x">
+				<float>209.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_51">
+			<attr name="x">
+				<float>210.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_52">
+			<attr name="x">
+				<float>212.0</float>
+			</attr>
+			<attr name="y">
+				<float>77.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_53">
+			<attr name="x">
+				<float>221.0</float>
+			</attr>
+			<attr name="y">
+				<float>69.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_54">
+			<attr name="x">
+				<float>222.0</float>
+			</attr>
+			<attr name="y">
+				<float>65.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_55">
+			<attr name="x">
+				<float>233.0</float>
+			</attr>
+			<attr name="y">
+				<float>66.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_56">
+			<attr name="x">
+				<float>236.0</float>
+			</attr>
+			<attr name="y">
+				<float>79.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_57">
+			<attr name="x">
+				<float>237.0</float>
+			</attr>
+			<attr name="y">
+				<float>78.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_58">
+			<attr name="x">
+				<float>243.0</float>
+			</attr>
+			<attr name="y">
+				<float>64.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_59">
+			<attr name="x">
+				<float>245.0</float>
+			</attr>
+			<attr name="y">
+				<float>70.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_60">
+			<attr name="x">
+				<float>257.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_61">
+			<attr name="x">
+				<float>260.0</float>
+			</attr>
+			<attr name="y">
+				<float>68.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_62">
+			<attr name="x">
+				<float>262.0</float>
+			</attr>
+			<attr name="y">
+				<float>67.0</float>
+			</attr>
+		</node>
+		<node id="273-20-05_63">
+			<attr name="x">
+				<float>262.0</float>
+			</attr>
+			<attr name="y">
+				<float>80.0</float>
+			</attr>
+		</node>
+		<edge from="273-20-05_0" to="273-20-05_1"/>
+		<edge from="273-20-05_4" to="273-20-05_6"/>
+		<edge from="273-20-05_2" to="273-20-05_4"/>
+		<edge from="273-20-05_2" to="273-20-05_3"/>
+		<edge from="273-20-05_3" to="273-20-05_5"/>
+		<edge from="273-20-05_5" to="273-20-05_7"/>
+		<edge from="273-20-05_6" to="273-20-05_8"/>
+		<edge from="273-20-05_7" to="273-20-05_9"/>
+		<edge from="273-20-05_9" to="273-20-05_12"/>
+		<edge from="273-20-05_12" to="273-20-05_16"/>
+		<edge from="273-20-05_11" to="273-20-05_15"/>
+		<edge from="273-20-05_10" to="273-20-05_11"/>
+		<edge from="273-20-05_10" to="273-20-05_13"/>
+		<edge from="273-20-05_13" to="273-20-05_14"/>
+		<edge from="273-20-05_15" to="273-20-05_19"/>
+		<edge from="273-20-05_16" to="273-20-05_17"/>
+		<edge from="273-20-05_14" to="273-20-05_18"/>
+		<edge from="273-20-05_18" to="273-20-05_20"/>
+		<edge from="273-20-05_20" to="273-20-05_22"/>
+		<edge from="273-20-05_23" to="273-20-05_24"/>
+		<edge from="273-20-05_23" to="273-20-05_25"/>
+		<edge from="273-20-05_21" to="273-20-05_23"/>
+		<edge from="273-20-05_24" to="273-20-05_26"/>
+		<edge from="273-20-05_25" to="273-20-05_28"/>
+		<edge from="273-20-05_26" to="273-20-05_27"/>
+		<edge from="273-20-05_28" to="273-20-05_30"/>
+		<edge from="273-20-05_30" to="273-20-05_30"/>
+		<edge from="273-20-05_30" to="273-20-05_31"/>
+		<edge from="273-20-05_30" to="273-20-05_32"/>
+		<edge from="273-20-05_31" to="273-20-05_31"/>
+		<edge from="273-20-05_31" to="273-20-05_33"/>
+		<edge from="273-20-05_29" to="273-20-05_31"/>
+		<edge from="273-20-05_32" to="273-20-05_34"/>
+		<edge from="273-20-05_33" to="273-20-05_35"/>
+		<edge from="273-20-05_35" to="273-20-05_36"/>
+		<edge from="273-20-05_36" to="273-20-05_37"/>
+		<edge from="273-20-05_40" to="273-20-05_43"/>
+		<edge from="273-20-05_38" to="273-20-05_40"/>
+		<edge from="273-20-05_38" to="273-20-05_39"/>
+		<edge from="273-20-05_39" to="273-20-05_41"/>
+		<edge from="273-20-05_41" to="273-20-05_42"/>
+		<edge from="273-20-05_43" to="273-20-05_44"/>
+		<edge from="273-20-05_43" to="273-20-05_45"/>
+		<edge from="273-20-05_42" to="273-20-05_44"/>
+		<edge from="273-20-05_44" to="273-20-05_44"/>
+		<edge from="273-20-05_44" to="273-20-05_46"/>
+		<edge from="273-20-05_45" to="273-20-05_48"/>
+		<edge from="273-20-05_46" to="273-20-05_47"/>
+		<edge from="273-20-05_48" to="273-20-05_50"/>
+		<edge from="273-20-05_50" to="273-20-05_51"/>
+		<edge from="273-20-05_52" to="273-20-05_53"/>
+		<edge from="273-20-05_49" to="273-20-05_52"/>
+		<edge from="273-20-05_53" to="273-20-05_54"/>
+		<edge from="273-20-05_53" to="273-20-05_55"/>
+		<edge from="273-20-05_55" to="273-20-05_58"/>
+		<edge from="273-20-05_58" to="273-20-05_59"/>
+		<edge from="273-20-05_57" to="273-20-05_59"/>
+		<edge from="273-20-05_56" to="273-20-05_57"/>
+		<edge from="273-20-05_59" to="273-20-05_59"/>
+		<edge from="273-20-05_59" to="273-20-05_60"/>
+		<edge from="273-20-05_60" to="273-20-05_61"/>
+		<edge from="273-20-05_61" to="273-20-05_61"/>
+		<edge from="273-20-05_61" to="273-20-05_63"/>
+	</graph>
+</gxl>
+
