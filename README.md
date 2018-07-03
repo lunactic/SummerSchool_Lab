@@ -155,4 +155,5 @@ Top 10
 ```
 
 And a window such as follows:
+
 ![top-10-figure](doc/top10.jpg)
