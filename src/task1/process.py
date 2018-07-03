@@ -46,7 +46,7 @@ def main():
                         'divaservices.unifr.ch/api/v2', 'out/'+image_number+'/words_binary/'+file, image_number, collection_name)
                 else:
                     add_to_collection('divaservices.unifr.ch/api/v2/',
-                                    collection_name, 'out/'+image_number+'/words_binary/'+file)
+                                      collection_name, 'out/'+image_number+'/words_binary/'+file)
 
             extract_word_graphs_binary(collection_name, image_number)
 
@@ -62,9 +62,9 @@ def binarize_page(input_image):
     # TODO: Execute the method on DIVAServices
     # - store the result from poll_result(...) in `result`
 
-    outputFiles = result['output']
+    output_files = result['output']
 
-    files = [x['file'] for x in outputFiles if x['file']
+    files = [x['file'] for x in output_files if x['file']
              if x['file']['mime-type'] == 'image/jpeg']
 
     create_dir('out/'+input_image+'/binary_page/')
@@ -87,15 +87,15 @@ def extract_words_binary(input_image):
     # TODO: Execute the method on DIVAServices
     # - store the result from poll_result(...) in `result`
 
-    outputFiles = result['output']
+    output_files = result['output']
 
-    pngFiles = [x['file'] for x in outputFiles if x['file']
-                if x['file']['mime-type'] == 'image/png']
+    png_files = [x['file'] for x in output_files if x['file']
+                 if x['file']['mime-type'] == 'image/png']
 
     create_dir('out/'+input_image+'/words_binary/')
 
     # store the resulting word images
-    for file in pngFiles:
+    for file in png_files:
         urllib.request.urlretrieve(
             file['url'], 'out/'+input_image+'/words_binary/'+file['name'])
 
@@ -121,16 +121,16 @@ def extract_word_graphs_binary(word_collection, input_image):
     response = json.loads(requests.request(
         "POST", url, data=json.dumps(payload), headers=headers).text)
     print(response['results'])
-    resultLinks = [x for x in response['results']]
+    result_links = [x for x in response['results']]
 
     # download the individual results
-    for i, resultLink in enumerate(resultLinks):
-        result = poll_result(resultLink['resultLink'])
-        outputFiles = result['output']
-        xmlFiles = [x['file'] for x in outputFiles if x['file']
-                    if x['file']['mime-type'] == 'application/xml']
+    for i, result_link in enumerate(result_links):
+        result = poll_result(result_link['resultLink'])
+        output_files = result['output']
+        xml_files = [x['file'] for x in output_files if x['file']
+                     if x['file']['mime-type'] == 'application/xml']
         # download the gxl file
-        for file in xmlFiles:
+        for file in xml_files:
             filename = os.path.basename(urlparse(file['url']).path)
             urllib.request.urlretrieve(
                 file['url'], 'out/'+input_image+'/graphs_binary/'+filename)
@@ -200,7 +200,7 @@ def create_dir(dir_path):
 
 
 def poll_result(result_link):
-    """ 
+    """
     Polls for the result of the execution in 1s intervals
 
     Arguments:
@@ -211,8 +211,8 @@ def poll_result(result_link):
     """
 
     response = json.loads(requests.request("GET", result_link).text)
-    while(response['status'] != 'done'):
-        if(response['status'] == 'error'):
+    while response['status'] != 'done':
+        if response['status'] == 'error':
             sys.stderr.write(
                 'Error in executing the request. See the log file at: ' + response['output'][0]['file']['url'])
             sys.exit()
