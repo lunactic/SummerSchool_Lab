@@ -42,10 +42,10 @@ def main():
         if not collection_exists(collection_name):
             for i, file in enumerate(os.listdir('out/'+image_number+'/words_binary/')):
                 if i == 0:
-                    createCollection(
+                    create_collection(
                         'divaservices.unifr.ch/api/v2', 'out/'+image_number+'/words_binary/'+file, image_number, collection_name)
                 else:
-                    addToCollection('divaservices.unifr.ch/api/v2/',
+                    add_to_collection('divaservices.unifr.ch/api/v2/',
                                     collection_name, 'out/'+image_number+'/words_binary/'+file)
 
             extract_word_graphs_binary(collection_name, image_number)
@@ -136,7 +136,7 @@ def extract_word_graphs_binary(word_collection, input_image):
                 file['url'], 'out/'+input_image+'/graphs_binary/'+filename)
 
 
-def createCollection(base_url, input_image, image_number, collection_name):
+def create_collection(base_url, input_image, image_number, collection_name):
     """Uploads an image to DIVAServices
 
     Arguments:
@@ -163,7 +163,7 @@ def createCollection(base_url, input_image, image_number, collection_name):
         return response['collection']
 
 
-def addToCollection(base_url, collection_name, input_image):
+def add_to_collection(base_url, collection_name, input_image):
     """adds an image to a DIVAServices collection
 
     Arguments:
