@@ -48,7 +48,7 @@ def main():
                     add_to_collection('divaservices.unifr.ch/api/v2/',
                                       collection_name, 'out/'+image_number+'/words_binary/'+file)
 
-            extract_word_graphs_binary(collection_name, image_number)
+        extract_word_graphs_binary(collection_name, image_number)
 
 
 def binarize_page(input_image):
