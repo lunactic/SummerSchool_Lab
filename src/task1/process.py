@@ -60,7 +60,7 @@ def binarize_page(input_image):
     """
 
     # TODO: Execute the method on DIVAServices
-    # - store the result from pollResult(...) in `result`
+    # - store the result from poll_result(...) in `result`
 
     outputFiles = result['output']
 
@@ -85,7 +85,7 @@ def extract_words_binary(input_image):
     print('extracting words from binarized page: ' + input_image)
 
     # TODO: Execute the method on DIVAServices
-    # - store the result from pollResult(...) in `result`
+    # - store the result from poll_result(...) in `result`
 
     outputFiles = result['output']
 
@@ -125,7 +125,7 @@ def extract_word_graphs_binary(word_collection, input_image):
 
     # download the individual results
     for i, resultLink in enumerate(resultLinks):
-        result = pollResult(resultLink['resultLink'])
+        result = poll_result(resultLink['resultLink'])
         outputFiles = result['output']
         xmlFiles = [x['file'] for x in outputFiles if x['file']
                     if x['file']['mime-type'] == 'application/xml']
@@ -199,7 +199,7 @@ def create_dir(dir_path):
         os.makedirs(dir_path)
 
 
-def pollResult(result_link):
+def poll_result(result_link):
     """ 
     Polls for the result of the execution in 1s intervals
 
