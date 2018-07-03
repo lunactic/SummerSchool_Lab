@@ -1,11 +1,12 @@
-import requests
+from urllib.parse import urlparse
+
 import json
 import sys
 import os
 import time
 import urllib.request
 import base64
-from urllib.parse import urlparse
+import requests
 
 
 def main():
@@ -17,7 +18,7 @@ def main():
         - upload all words as a collection to DIVAServices
         - extract a graph for each individual word that can be used for further graph based processing
 
-    
+
     All the data used here is pre-stored on DIVAServices for easier processing.
 
     The collection names are:
@@ -29,11 +30,9 @@ def main():
 
     """
 
-    #image_numbers = ['270', '271', '272', '273', '274', '275',
-    #                 '276', '277', '278', '279', '300', '301', '302', '303', '304']
-    image_numbers = ['279', '300', '301', '302', '303', '304']
+    image_numbers = ['270', '271', '272', '273', '274', '275',
+                     '276', '277', '278', '279', '300', '301', '302', '303', '304']
 
-   
     for image_number in image_numbers:
         print('processing image: ' + image_number)
         binarize_page(image_number)
@@ -50,7 +49,7 @@ def main():
                                     collection_name, 'out/'+image_number+'/words_binary/'+file)
 
             extract_word_graphs_binary(collection_name, image_number)
-        
+
 
 def binarize_page(input_image):
     """
@@ -62,7 +61,6 @@ def binarize_page(input_image):
 
     # TODO: Execute the method on DIVAServices
     # - store the result from pollResult(...) in `result`
-    
 
     outputFiles = result['output']
 
@@ -85,7 +83,7 @@ def extract_words_binary(input_image):
         input_image {string} -- the page number
     """
     print('extracting words from binarized page: ' + input_image)
-    
+
     # TODO: Execute the method on DIVAServices
     # - store the result from pollResult(...) in `result`
 
